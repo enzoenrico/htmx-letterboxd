@@ -1,0 +1,54 @@
+------------------------------------
+(backend.Data) {
+ Title: (string) (len=22) "Lars and the Real Girl",
+ Author: (string) (len=7) "kyouko_",
+ Rating: (string) (len=3) "4.5",
+ Review: (string) (len=777) " <p><img src=\"https://a.ltrbxd.com/resized/sm/upload/wj/gh/ve/0j/t8CjVSDVT5fy2AMZRwL0l9OCVhG-0-600-0-900-crop.jpg?v=a13f374ec7\"/></p> <p>this movie is so much more than \"the weird dude with the doll\"</p><p>the way ryan gosling shows the loneliness, fear of people and aversion to social interactions is just perfect, and in a weird sense, extremely relatable<br />but in my opinion, the most perfect thing about this film is how it shows that love changes people, the way Lars is shown at the start of the movie as a melancholic individual vs the last scene on the movie (don't worry no spoilers) goes to show that the love that Lars was willing to give Bianca, and the love he was willing to receive from the town, can change a person's life</p><p>really loved this movie</p> ",
+ Date: (string) (len=31) "Mon, 29 Jan 2024 12:15:36 +1300"
+}
+------------------------------------
+------------------------------------
+(backend.Data) {
+ Title: (string) (len=31) "Bingo: The King of the Mornings",
+ Author: (string) (len=7) "kyouko_",
+ Rating: (string) (len=3) "5.0",
+ Review: (string) (len=211) " <p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/6/2/3/6/8/362368-bingo-the-king-of-the-mornings-0-600-0-900-crop.jpg?v=54bc8aa285\"/></p> <p>sem duvidas um dos melhores exemplos de cinema brasileiro</p> ",
+ Date: (string) (len=31) "Thu, 25 Jan 2024 13:16:36 +1300"
+}
+------------------------------------
+------------------------------------
+(backend.Data) {
+ Title: (string) (len=10) "Fight Club",
+ Author: (string) (len=7) "kyouko_",
+ Rating: (string) (len=3) "5.0",
+ Review: (string) (len=591) " <p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/5/6/8/51568-fight-club-0-600-0-900-crop.jpg?v=768b32dfa4\"/></p> <p>clube da luta é definitivamente um filme complicado<br />admito que precisei ver alguns vídeos sobre o filme para compreender o fim, mas após vê-lo novamente posso dizer com confiança que esse filme vale a pena o esforço<br />a dualidade do narrador com tyler duren é o que torna o filme interessante, e com uma mensagem atemporal sobre a sociedade moderna, o filme se tornou um clássico assim que foi lançado</p><p>10/10 tyler duren<b>\u00a0</b>eu te amo</p> ",
+ Date: (string) (len=30) "Mon, 8 Jan 2024 23:40:10 +1300"
+}
+------------------------------------
+------------------------------------
+(backend.Data) {
+ Title: (string) (len=23) "The Wolf of Wall Street",
+ Author: (string) (len=7) "kyouko_",
+ Rating: (string) (len=3) "5.0",
+ Review: (string) (len=509) " <p><img src=\"https://a.ltrbxd.com/resized/film-poster/8/6/1/1/4/86114-the-wolf-of-wall-street-0-600-0-900-crop.jpg?v=9fd1891260\"/></p> <p>é insano pensar que esse filme foi feito baseado em uma história real<br />o leonardo dicaprio simplismente amassou na atuação do filme, senti as emoções do personagem, seu medo de ser preso, o êxtase em festas, a raiva quando seus planos não iam como o esperado<br />um dia ainda espero poder construir um império como o do lobo de wall street</p><p>10/10</p> ",
+ Date: (string) (len=30) "Mon, 8 Jan 2024 23:36:28 +1300"
+}
+------------------------------------
+------------------------------------
+(backend.Data) {
+ Title: (string) (len=10) "The Batman",
+ Author: (string) (len=7) "kyouko_",
+ Rating: (string) (len=3) "5.0",
+ Review: (string) (len=364) " <p><img src=\"https://a.ltrbxd.com/resized/film-poster/3/4/8/9/1/4/348914-the-batman-0-600-0-900-crop.jpg?v=ec12a8b7ce\"/></p> <p>nunca pensei que veria o robbert pattinson como o batman, mas o ator superou minhas expectativas<br />o pacing do filme é incrível, com o final trazendo um medo real de que o batman talvez não ganhe</p><p>10/10 valem as 3 horas</p> ",
+ Date: (string) (len=30) "Mon, 8 Jan 2024 23:32:06 +1300"
+}
+------------------------------------
+------------------------------------
+(backend.Data) {
+ Title: (string) (len=20) "Crazy, Stupid, Love.",
+ Author: (string) (len=7) "kyouko_",
+ Rating: (string) (len=3) "4.5",
+ Review: (string) (len=504) " <p><img src=\"https://a.ltrbxd.com/resized/film-poster/1/5/0/5/1/15051-crazy-stupid-love--0-600-0-900-crop.jpg?v=262be4c415\"/></p> <p>\"literally me fr\"</p><p>definitivamente uma montanha russa de emoções, o papel do Ryan Gosling como Jacob mostra uma flexibilidade muito foda do ator que eu nunca pensei que veria, já que últimas aparições do ator que ví foram em filmes como \"Drive\"<br />Jim do The Office sensacional ele me fez sentir coisas que eu não sabia que dava pra sentir</p><p>🦔</p> ",
+ Date: (string) (len=30) "Fri, 5 Jan 2024 19:05:07 +1300"
+}
+------------------------------------
