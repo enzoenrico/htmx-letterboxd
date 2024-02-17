@@ -1,10 +1,10 @@
 package backend
 
 import (
-	"fmt"
+	"strings"
+
 	"github.com/davecgh/go-spew/spew"
 	"github.com/mmcdole/gofeed"
-	"strings"
 )
 
 type Data struct {
@@ -18,6 +18,7 @@ type Data struct {
 // The function `RSSToJSON` parses an RSS feed from Letterboxd and extracts reviews, converting them
 // into a JSON format.
 func RSSToJSON() []Data{
+	
 	fp := gofeed.NewParser()
 
 	feed, err := fp.ParseURL("https://letterboxd.com/kyouko_/rss/")
@@ -37,16 +38,12 @@ func RSSToJSON() []Data{
 				Date:   item.Published,
 			}
 			reviews = append(reviews, newAppend)
-			// fmt.Println("------------------------------------")
 			// spew.Dump(item.Extensions["letterboxd"]["filmTitle"])
 			// spew.Dump(item)
-			// fmt.Println("------------------------------------")
 		}
 	}
 	for _, v := range reviews {
-		fmt.Println("------------------------------------")
 		spew.Dump(v)
-		fmt.Println("------------------------------------")
 	}
 	return reviews
 }

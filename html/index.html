@@ -1,11 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <div class="main-container">
+      <form action="" hx-post="/api/addMovie">
+        <input type="text" placeholder="Movie Filter" id="title" />
+        <div class="movies"></div>
+        <button
+          type="submit"
+          hx-get="/api/getMovies"
+          hx-target=".movies"
+          hx-swap="innerHTML"
+          id="but"
+          hx-indicator="#penis"
+        >
+          Papo reto
+        </button>
+      </form>
+      <div id="penis" class="htmx-indicator">CARREGANDO.........</div>
+    </div>
+  </body>
 </html>
